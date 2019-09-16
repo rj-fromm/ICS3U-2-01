@@ -2,7 +2,7 @@
 
 #Created by: RJ Fromm
 #Created on: September 2019
-#This is a multiplcation program 
+#This program can calculate the area and perimeter of a circle 
 
 import math
 
